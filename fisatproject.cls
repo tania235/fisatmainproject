@@ -111,4 +111,4 @@ Staff in Charge \hfill Head of the Department
 \fancyhf{}
 \lhead{\stored@title}
 \lfoot{ Computer Science \& Engineering | FISAT}
-\rfoot{Page \thepage}
+\rfoot{\thepage}
