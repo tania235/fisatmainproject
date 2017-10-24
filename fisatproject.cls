@@ -54,9 +54,9 @@
 \vskip 1.5em%
 \textit{A project report submitted in partial fulfillment of the requirements for\\[.2cm]
 	the award of the degree of}\\[1.5cm]
-	{\Large \bf \itshape{{Bachelor of Technology}}}\\[.5cm]
-\textit{in}\\[.5cm]
-{\Large \bf \itshape{{Computer Science \& Engineering}}}\\[1.5cm]
+%	{\Large \bf \itshape{{Master of Computer Application}}}\\[.5cm]
+%\textit{in}\\[.5cm]
+{\Large \bf \itshape{{Master of Computer Application}}}\\[1.5cm]
     \vskip 1.5em%
     {\large
       \lineskip .5em%
@@ -93,9 +93,9 @@ Mookkannoor(P.O), Angamaly-683577
 \textbf{CERTIFICATE}
 \end{center}
 \vspace{1.5cm}
- This is to certify that project report entitled ``\textbf{\stored@title}'' is a bonafide report of the project presented during VIII$^{th}$ semester by \textbf{\stored@author}, in partial fulfillment of the requirements for the award of the degree of Bachelor of Technology (B.Tech) in Computer Science \& Engineering.\\[3cm]
+ This is to certify that project report entitled ``\textbf{\stored@title}'' is a bonafide report of the project presented during VI$^{th}$ semester by \textbf{\stored@author}, in partial fulfillment of the requirements for the award of the degree of Master of Computer Application.\\[3cm]
 
-\hfill \textbf{Dr. Prasad J C}\\
+\hfill \textbf{Mr. Santhosh Kottam}\\
 Staff in Charge \hfill Head of the Department
 
 
