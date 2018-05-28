@@ -52,7 +52,7 @@
     {\LARGE \@title \par}%
     \vfill
 \vskip 1.5em%
-\textit{A industrial training report submitted in partial fulfillment of the requirements for\\[.2cm]
+\textit{An industrial training report submitted in partial fulfillment of the requirements for\\[.2cm]
 	the award of the degree of}\\[1.5cm]
 	{\Large \bf \itshape{{Bachelor of Technology}}}\\[.5cm]
 \textit{in}\\[.5cm]
