@@ -73,7 +73,7 @@
   \large \bfseries{FEDERAL INSTITUTE OF SCIENCE AND TECHNOLOGY (FISAT)}\\
   \small \bfseries{ANGAMALY-683577}\\[.5cm]
   \small {\textit{Affiliated to}}\\[.5cm]
-  \large \bfseries{Kerala Technological University (KTU)}
+  \large \bfseries{APJ Abdul Kalam Technological University}
   \end{center}
   }
 
